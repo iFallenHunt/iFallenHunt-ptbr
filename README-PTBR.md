@@ -1,13 +1,13 @@
 Com uma graduação em Análise e Desenvolvimento de Sistemas, comecei 2024 com vários planos e projetos que finalmente se concretizaram. 
 
-Iniciei uma segunda licenciatura em Engenharia de Software e estou a concluir o curso CS50 de Harvard, para além de estar em contacto com outras linguagens.
+Iniciei uma segunda graduação em Engenharia de Software e estou concluindo o curso CS50's de Harvard, além de estar em contato com outras linguagens.
 
-Atualmente estou a estudar e a dedicar-me a Java/Springboot, tentando aprofundar os meus conhecimentos nesta linguagem. 
+Atualmente estou estudando e me dedicando a Java/Springboot. 
 
-Tenho alguns projectos no meu GitHub e estou a trabalhar em mais alguns, sempre em constante estudo e aperfeiçoamento.
+Tenho alguns projetos no meu Git e estou trabalhando em mais alguns, sempre em constante estudo e aperfeiçoamento.
 
 
-Então aqui estão algumas das coisas que tenho estudado e trabalhado
+Aqui estão algumas das tecnologias que tenho estudado ou trabalhado
 
 
 #### Eu trabalho com:
