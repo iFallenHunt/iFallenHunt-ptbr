@@ -4,6 +4,8 @@ Analista de Sistemas 👨🏾‍🎓
 
 Engenheiro de Software ✍🏾
 
+Trabalhando no projeto Odoo Community através da ITBrasil
+
 <div>
 <a href="https://github.com/iFallenHunt">
 
